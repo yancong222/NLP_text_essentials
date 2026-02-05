@@ -7,7 +7,7 @@ Authors: Jingying Hu; Yan Cong; TBD , Purdue University. {hu880,cong4}@purdue.ed
 
 | Notebook | Description |
 |--------|-------------|
-| 01DocPreprocess_ADSocial_Clustering_filter.ipynb | AD_SOCIAL: use K-means Clustering (unsupervised method) to groups post into different clusters and filter out irrelevant posts of |
+| 01DocPreprocess_ADSocial_Clustering_filter.ipynb | AD_SOCIAL: use K-means Clustering (unsupervised method) to groups post into different clusters and filter out irrelevant posts [i.e., quality control] |
 | 02DocPreprocess_HealthSocial.ipynb | HealthSocial: combine two orginal csv. files into one file, and clean the "text" column |
 | 03DocPreprocess_delaware_restore punctuation.ipynb | restore missing punctuation at the end of sentences in the “content_semi_clean” column |
 | 04DocPreprocess_ClinicalGroups.ipynb | Clinical Groups: filter the data and combine them together |
