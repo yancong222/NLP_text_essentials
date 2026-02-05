@@ -3,6 +3,7 @@ NLP scripts for text analyses essentials
 
 Authors: Jingying Hu; Yan Cong; TBD , Purdue University. {hu880,cong4}@purdue.edu
 
+
 ## 03Scripts
 
 | Notebook | Description |
@@ -18,3 +19,5 @@ Authors: Jingying Hu; Yan Cong; TBD , Purdue University. {hu880,cong4}@purdue.ed
 | 09SentimentAnalysis_Emotion_Dictionary.ipynb | Performing sentiment analysis using the emotion dictionary |
 | 10Match_text_length.ipynb | Based on the "lexicon" file, match the text lengths (total tokens) between ad and health groups |
 | 11Reduced_file_analysis.ipynb | calculate all features for the trimmed csv. files (two length-matched text) |
+
+This is part of the manuscript "How robust are linguistic markers of aging? The case of aging-related social media text", under review as of Feb 5, 2026. 
