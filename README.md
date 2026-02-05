@@ -1,11 +1,7 @@
 # NLP_text_essentials
 NLP scripts for text analyses essentials 
 
-Authors: 
-
-Jingying Hu. Purdue University. hu880@purdue.edu
-
-Yan Cong. Purdue University. cong4@purdue.edu
+Authors: Jingying Hu; Yan Cong; TBD , Purdue University. {hu880,cong4}@purdue.edu
 
 ## 03Scripts
 
