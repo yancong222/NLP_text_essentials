@@ -1,13 +1,12 @@
 # NLP_text_essentials
 NLP scripts for text analyses essentials 
 
-Authors: Jingying Hu; Yan Cong; TBD , Purdue University. {hu880,cong4,tbd}@purdue.edu
+Authors: Jingying Hu; Trisha Godara; TBD...; Yan Cong. Purdue University. {hu880,cong4,tbd}@purdue.edu
 
-
-## 03Scripts
 
 | Notebook | Description |
 |--------|-------------|
+| Feature_Extraction.ipynb | A stand-alone, all-in-one python notebook for extracting and computation of all NLP markers |
 | 01DocPreprocess_ADSocial_Clustering_filter.ipynb | AD_SOCIAL: use K-means Clustering (unsupervised method) to groups post into different clusters and filter out irrelevant posts [i.e., quality control] |
 | 02DocPreprocess_HealthSocial.ipynb | HealthSocial: combine two orginal csv. files into one file, and clean the "text" column |
 | 03DocPreprocess_delaware_restore punctuation.ipynb | restore missing punctuation at the end of sentences in the “content_semi_clean” column |
