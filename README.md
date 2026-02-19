@@ -1,10 +1,10 @@
 # NLP_text_essentials
-NLP scripts for text analyses essentials 
-
-Developers: Jingying Hu; Trisha Godara; Yan Cong. Purdue University. 
 
 This repository is a component of the analyses conducted for the manuscript "How robust are linguistic markers of aging? The case of aging-related social media text", _Natural Language Processing Journal_. https://doi.org/10.1016/j.nlp.2026.100203. 
 
+NLP scripts for text analyses essentials 
+
+Developers: Jingying Hu; Trisha Godara; Yan Cong. Purdue University. 
 
 | Notebook | Description |
 |--------|-------------|
