@@ -9,7 +9,7 @@ This repository is a component of the analyses conducted for the manuscript "How
 | Notebook | Description |
 |--------|-------------|
 | Feature_Extraction.py | A stand-alone, all-in-one python notebook for extracting and computation of all NLP markers |
-| 01DocPreprocess_ADSocial_Clustering_filter.py | AD_SOCIAL: use K-means Clustering (unsupervised method) to groups post into different clusters and filter out irrelevant posts [i.e., quality control] |
+| 01DocPreprocess_ADSocial_Clustering_filter.py | ADSocial: use K-means Clustering (unsupervised method) to groups post into different clusters and filter out irrelevant posts [i.e., quality control] |
 | 02DocPreprocess_HCSocial.py | HCSocial: combine two orginal csv. files into one file, and clean the "text" column |
 | 03DocPreprocess_delaware_restore punctuation.py | restore missing punctuation at the end of sentences in the “content_semi_clean” column |
 | 04DocPreprocess_ClinicalGroups.py | Clinical Groups: filter the data and combine them together |
