@@ -10,7 +10,7 @@ This repository is a component of the analyses conducted for the manuscript "How
 |--------|-------------|
 | Feature_Extraction.py | A stand-alone, all-in-one python notebook for extracting and computation of all NLP markers |
 | 01DocPreprocess_ADSocial_Clustering_filter.py | AD_SOCIAL: use K-means Clustering (unsupervised method) to groups post into different clusters and filter out irrelevant posts [i.e., quality control] |
-| 02DocPreprocess_HealthSocial.py | HealthSocial: combine two orginal csv. files into one file, and clean the "text" column |
+| 02DocPreprocess_HCSocial.py | HCSocial: combine two orginal csv. files into one file, and clean the "text" column |
 | 03DocPreprocess_delaware_restore punctuation.py | restore missing punctuation at the end of sentences in the “content_semi_clean” column |
 | 04DocPreprocess_ClinicalGroups.py | Clinical Groups: filter the data and combine them together |
 | 05SentimentAnalysis_VADER.py | Performing sentiment analysis using the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool. |
@@ -18,7 +18,7 @@ This repository is a component of the analyses conducted for the manuscript "How
 | 07Cosine_Similarity.py | Using a SentenceTransformer model (all-mpnet-base-v2) to camculate the cosine similarity of consecutive sentences and calculate the average cosine similarity for each row |
 | 08Part-of-speech_tagging.py | Tagging the part-of-speech label and calculate the percentage of each tag |
 | 09SentimentAnalysis_Emotion_Dictionary.py | Performing sentiment analysis using the emotion dictionary |
-| 10Match_text_length.py | Based on the "lexicon" file, match the text lengths (total tokens) between ad and health groups |
+| 10Match_text_length.py | Based on the "lexicon" file, match the text lengths (total tokens) between ad and HC groups |
 | 11Reduced_file_analysis.py | calculate all features for the trimmed csv. files (two length-matched text) |
 
 ## Variable Descriptions
