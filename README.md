@@ -16,7 +16,7 @@ This repository is a component of the analyses conducted for the manuscript "How
 | 05SentimentAnalysis_VADER.py | Performing sentiment analysis using the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool. |
 | 06Syntactic_Complexity_Analysis.py | Analyzing the lexical and syntactic complexity of "clean_text" columns |
 | 07Cosine_Similarity.py | Using a SentenceTransformer model (all-mpnet-base-v2) to camculate the cosine similarity of consecutive sentences and calculate the average cosine similarity for each row |
-| 08Part-of-speech_tagging.py | Tagging the part-of-speech label and calculate the percentage of each tag |
+| 08POS_tagging.py | Tagging the parts-of-speech label and calculate the percentage of each tag |
 | 09SentimentAnalysis_Emotion_Dictionary.py | Performing sentiment analysis using the emotion dictionary |
 | 10Match_text_length.py | Based on the "lexicon" file, match the text lengths (total tokens) between ad and HC groups |
 | 11Reduced_file_analysis.py | calculate all features for the trimmed csv. files (two length-matched text) |
