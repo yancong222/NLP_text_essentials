@@ -1,10 +1,11 @@
 # NLP_text_essentials
 
-This repository is a component of the analyses conducted for the manuscript "How robust are linguistic markers of aging? The case of aging-related social media text", _Natural Language Processing Journal_. https://doi.org/10.1016/j.nlp.2026.100203. 
+This repository serves as a component of the analyses conducted for the manuscript titled "How Robust are Linguistic Markers of Aging? The Case of Aging-Related Social Media Text" published in the _Natural Language Processing Journal_. The manuscript can be accessed at the following link: https://doi.org/10.1016/j.nlp.2026.100203.
 
-NLP scripts for text analyses essentials 
+The repository contains essential NLP scripts for conducting automatic text analyses.
 
 Developers: Jingying Hu; Trisha Godara; Yan Cong. Purdue University. 
+
 
 | Notebook | Description |
 |--------|-------------|
@@ -19,7 +20,8 @@ Developers: Jingying Hu; Trisha Godara; Yan Cong. Purdue University.
 | 08POS_tagging.py | Tagging the parts-of-speech label and calculate the percentage of each tag |
 | 09SentimentAnalysis_Emotion_Dictionary.py | Performing sentiment analysis using the emotion dictionary |
 | 10Match_text_length.py | Based on the "lexicon" file, match the text lengths (total tokens) between ad and HC groups |
-| 11Reduced_file_analysis.py | calculate all features for the trimmed csv. files (two length-matched text) |
+| 11Reduced_file_analysis.py | calculate all features for the trimmed csv files (two length-matched text) |
+| 12llm_surprisal_markers.py | calculate (large) language models (LLM) derived features for a textual document|
 
 ## Variable Descriptions
 
